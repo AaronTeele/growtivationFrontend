@@ -2,7 +2,7 @@ import App from 'firebase/app';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "AIzaSyDVXofjJSktLE52OC233-HCakBwOPlHz_I",
+    apiKey: "",
     authDomain: "growtivation-53329.firebaseapp.com",
     databaseURL: "https://growtivation-53329.firebaseio.com",
     projectId: "growtivation-53329",
